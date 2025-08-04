@@ -12,7 +12,7 @@ const Footer = () => {
                     <div className="flex flex-start">
                         <Heading heading={'Sartaj'} />
                     </div>
-                    <p className="my-5 font-semibold">I am a frontend developer from, USA with 10 years of experience in companies like Microsoft, Tesla and Apple.</p>
+                    <p className="my-5 font-semibold">I am a frontend developer from, Pakistan with one plus year of experience in Artillect solutions</p>
                 </div>
 
                 <div className="w-full md:w-[50%] flex justify-center md:flex-row items-center gap-3">
@@ -49,4 +49,4 @@ const Footer = () => {
     )
 }
 
-export default Footer
+export default Footer;

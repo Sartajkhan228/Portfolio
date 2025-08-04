@@ -45,7 +45,7 @@ const Contact = () => {
                 <Heading heading={'Get in touch'} />
             </div>
 
-            <div className="mt-10 md:mt-20 flex flex-col gap-0 md:flex-row items-center justify-between md:gap-7">
+            <div className="mt-10 md:mt-20 flex flex-col gap-0 md:flex-row items-center justify-between md:gap-12">
                 {/* left */}
                 <div className="text-white w-full md:w-[40%]">
                     <div>
@@ -89,7 +89,7 @@ const Contact = () => {
 
 
                     <button type="submit" className="bg-gradient-to-r from-purple-500 via-pink-400 to-orange-400 px-5 py-3 rounded-full font-xs shadow-md 
-                    hover:scale-105 transition-transform duration-300 cursor-pointer text-white">Submit now</button>
+                    hover:scale-105 transition-transform duration-300 cursor-pointer text-white mt-2.5">Submit now</button>
 
                 </form>
             </div>
